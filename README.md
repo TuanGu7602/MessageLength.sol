@@ -9,3 +9,4 @@ contract MessageLength {
         return bytes(message).length;
     }
 }
+Add event logging contracts
