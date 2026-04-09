@@ -13,3 +13,4 @@ Add event logging contracts
 Enhance security validation
 Simplify function logic
 Update contract version
+Remove redundant checks
